@@ -1,6 +1,6 @@
 # Inventory Performance Dashboard
 
-![Inventory Dashboard](https://github.com/LakshmishTS/inventory-dashboard/blob/main/Screenshot%202025-12-09%20100122)
+![inventory-dashboard](https://github.com/LakshmishTS/inventory-dashboard/blob/main/Screenshot%202025-12-09%20100122)
 
 An **end-to-end inventory analytics project** built using **Excel and Power BI**.  
 This project focuses on tracking stock value, low-stock items, overstocking, and supplier performance to support data-driven inventory decisions.
