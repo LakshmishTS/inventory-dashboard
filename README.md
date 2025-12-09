@@ -1,6 +1,6 @@
 # Inventory Performance Dashboard
 
-![Inventory Performance Dashboard](Screenshot-2025-12-09-100122.jpg)
+!Screenshot 2025-12-09 100122.png
 
 An **end-to-end inventory analytics project** built using **Excel and Power BI**.  
 This project focuses on tracking stock value, low-stock items, overstocking, and supplier performance to support data-driven inventory decisions.
